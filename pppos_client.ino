@@ -10,7 +10,6 @@
 #include "lwip/dns.h"
 
 String input = "";
-String output = "";
 char c;
 
 #define WEB_SERVER "www.w3.org"
